@@ -1,3 +1,8 @@
+
+# Authentication using Clerk Authentication and User-Management
+[Documentation](https://clerk.com/docs) and [Website](https://clerk.com)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
