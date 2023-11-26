@@ -1,5 +1,5 @@
 
-# Authentication using Clerk Authentication and User-Management
+# Clerk Authentication and User-Management using React
 [Documentation](https://clerk.com/docs) and [Website](https://clerk.com)
 
 
